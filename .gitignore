@@ -1,6 +1,10 @@
 *.class
 aulaincrementoedecremento
 aulainversaodevariaveis
+aulamatriz
+aulavector
+jogodaforca
+matriz
 
 # Ignorar arquivos objeto
 *.o
