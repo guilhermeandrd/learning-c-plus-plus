@@ -5,6 +5,7 @@ aulamatriz
 aulavector
 jogodaforca
 matriz
+out
 
 # Ignorar arquivos objeto
 *.o
