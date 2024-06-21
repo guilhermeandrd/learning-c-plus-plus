@@ -7,30 +7,3 @@ jogodaforca
 matriz
 out
 
-# Ignorar arquivos objeto
-*.o
-
-# Ignorar arquivos de saída do compilador
-*.out
-*.exe
-*.a
-*.so
-*.dll
-*.dylib
-
-# Ignorar diretórios comuns de build
-/build/
-/bin/
-/out/
-
-# Ignorar arquivos temporários do editor
-*~
-*.swp
-
-# Ignorar logs de execução
-*.log
-
-# Ignorar arquivos de configuração do IDE
-*.ide
-*.vscode
-
