@@ -12,3 +12,5 @@ while
 break
 dowhile
 for
+*.out
+aulaargfunc
